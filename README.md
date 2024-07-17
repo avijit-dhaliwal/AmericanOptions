@@ -50,7 +50,7 @@ This implementation ensures optimal early exercise decisions at each node.
 
 #### 2.3.1 Convergence Analysis
 
-![American Option Prices vs. Number of Time Steps](images/price_vs_steps.png)
+![American Option Prices vs. Number of Time Steps](images/prices_vs_steps.png)
 
 Figure 1 illustrates the convergence of option prices as the number of time steps increases. The observed behavior can be explained by the following theorem:
 
@@ -64,7 +64,7 @@ The faster convergence of put options is attributed to the higher likelihood of 
 
 #### 2.3.2 Volatility Sensitivity Analysis
 
-![American Option Prices vs. Volatility](images/prices_vs_volatility.png)
+![American Option Prices vs. Volatility](images/price_vs_volatility.png)
 
 Figure 2 demonstrates the relationship between option prices and volatility. The non-linear relationship and the divergence between calls and puts at higher volatilities can be explained by analyzing the option's vega in the context of the Black-Scholes-Merton framework:
 
