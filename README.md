@@ -182,3 +182,11 @@ Future research directions could include:
 5. Investigating the impact of market microstructure on the fine-scale dynamics of these processes, incorporating high-frequency data analysis.
 
 By pursuing these avenues, we can develop more sophisticated tools for risk management, derivatives pricing, and portfolio optimization, pushing the boundaries of quantitative finance in an increasingly complex and interconnected global market.
+
+## 6. Contact
+
+avijit.dhaliwal@gmail.com
+
+## 7. License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
